@@ -1,0 +1,12 @@
+# folder
+data/
+
+# extension
+*.csv
+*.xlsx
+*.pickle
+*.zip
+*.7z
+
+# python binary
+*.pyc
